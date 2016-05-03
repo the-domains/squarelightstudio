@@ -1,7 +1,7 @@
 name: SquareLightStudio
 favicon: null
-layout_spectrum: 0.021343980450183153
-typography_spectrum: 0.8808631224092096
+layout_spectrum: 1
+typography_spectrum: 0.63231
 title: 'Wedding Photography, Event Photography, Birthdays, Debuts'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9004009284544736
-  lightness: 0.2852989500388503
-  saturation: 0.09094375348649919
-  rhythmicContrast: 0.7696543587371707
+    - '#fdf8f4'
+    - '#eca40b'
+    - '#c22d29'
+    - '#211300'
+    - '#b2754a'
+  brandStrength: 0.125
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
