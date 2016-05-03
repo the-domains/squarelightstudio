@@ -1,4 +1,4 @@
-name: SquareLightStudio
+name: Square Light Studio
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.63231
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fdf8f4'
-    - '#eca40b'
-    - '#c22d29'
-    - '#211300'
-    - '#b2754a'
-  brandStrength: 0.125
+    - '#fffeff'
+    - '#474e00'
+    - '#f90000'
+    - '#a2d800'
+    - '#6492fd'
+  brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
